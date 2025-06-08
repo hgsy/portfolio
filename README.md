@@ -37,7 +37,8 @@
 ### <samp> 🚀 About Me </samp>
 - 🎓 Majoring in Software at **Hallym University**
 - 🔬 Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
-- 📧 Reach me at: **your-email@hallym.ac.kr**
+- 📧 **[Contact me via email](mailto:20225282@hallym.ac.kr)**
+
 
 
 ### <samp> 🌱 Current Focus </samp>
