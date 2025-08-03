@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-4DAAA5?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-767676?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
 <br>
@@ -23,6 +22,7 @@
         <strong>( 잘하고 싶어요 )</strong>
     </samp>
 </div>
+
 
 
 <br>
